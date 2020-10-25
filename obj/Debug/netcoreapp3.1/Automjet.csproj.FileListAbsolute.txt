@@ -1,0 +1,13 @@
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.csprojAssemblyReference.cache
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.AssemblyInfoInputs.cache
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.AssemblyInfo.cs
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.csproj.CoreCompileInputs.cache
+/home/ylli/Desktop/DOTNET/Automjet/bin/Debug/netcoreapp3.1/Automjet
+/home/ylli/Desktop/DOTNET/Automjet/bin/Debug/netcoreapp3.1/Automjet.deps.json
+/home/ylli/Desktop/DOTNET/Automjet/bin/Debug/netcoreapp3.1/Automjet.runtimeconfig.json
+/home/ylli/Desktop/DOTNET/Automjet/bin/Debug/netcoreapp3.1/Automjet.runtimeconfig.dev.json
+/home/ylli/Desktop/DOTNET/Automjet/bin/Debug/netcoreapp3.1/Automjet.dll
+/home/ylli/Desktop/DOTNET/Automjet/bin/Debug/netcoreapp3.1/Automjet.pdb
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.dll
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.pdb
+/home/ylli/Desktop/DOTNET/Automjet/obj/Debug/netcoreapp3.1/Automjet.genruntimeconfig.cache
